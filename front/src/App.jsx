@@ -4,6 +4,7 @@ import Image from './Image';
 
 
 function App() {
+  
 
   return (
     <>
@@ -17,7 +18,8 @@ function App() {
             </ul>
           </nav>
           <div className="intro text-center p-10">
-            <h1 className='text-5xl py-5 text-teal-500 font-bold hover:text-teal-700'>Mashuke Alam Jim</h1>
+        
+            <h1 className='text-5xl py-7 text-teal-400 font-bold  transition-opacity ease-in hover:opacity-30'>Mashuke Alam Jim</h1>
             <h2 className='text-2xl py-5'>CS Grad | Developer | Software Enthusiast</h2>
             <h3 className='text-1 py-5 text-gray-500 leading-8'>Always wanted to create world class software which provide service to the hands of people for good. Haven't started my career fully yet. But here's to a journey to the top of the world!</h3>
           </div>
